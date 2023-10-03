@@ -1,3 +1,1 @@
 # rubricaWPF
-    
-ciao
